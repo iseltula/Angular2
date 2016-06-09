@@ -5,8 +5,12 @@ ehthumbs.db
 # Folder config file
 Desktop.ini
 
+
+
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
+
+[Nn]ode_[Mm]odules/
 
 # Windows Installer files
 *.cab
